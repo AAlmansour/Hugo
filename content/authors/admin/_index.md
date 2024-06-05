@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Abdullah
+title: Abdullah Almansour
 
 # Name pronunciation (optional)
-name_pronunciation: Abdullah Almansour
+# name_pronunciation: Abdullah Almansour
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# first_name: Shiung Wu
+# last_name: Chien
 
 # Status emoji
 status:
@@ -20,69 +20,71 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Teaching Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: King Saud University
+    url: https://ksu.edu.sa/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:abdullah.a.almans@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://twitter.com/abdullahmn99
+  # - icon: brands/instagram
+    # url: https://www.instagram.com/
+  # - icon: brands/github
+    # url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/aaalmansour/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=Rz-V2ioAAAAJ&hl=en
+  # - icon: academicons/orcid
+    # url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Signal Processing
+  - Computer Vision
+  - Machine Learning 
+  - Deep Learning
+  - Biometrics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  # - area: PhD Artificial Intelligence
+    # institution: Stanford University
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
+    # summary: |
+      # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+      # text: 'Read Thesis'
+      # url: 'https://example.com'
+  # - area: MEng Artificial Intelligence
+    # institution: Massachusetts Institute of Technology
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
+    # summary: |
+      # GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Bachelor of Science in Computer Engineering
+    institution: King Saud University
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+    # summary: |
+      # GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -181,6 +183,10 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Biography 
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Teaching Assistant (since Nov. 2022) in the Department of Computer Engineering at King Saud University (KSU). My current research lies in Signal Processing, Computer Vision, Machine Learning, Deep Learning and Biometrics. 
+
+Before joining KSU, I worked in places at the intersection between the academia and the industry starting at King Abdullah International Medical Research Center (KAIMRC) in the Imaging Research Department. Thereafter, I joined the National Center for AI at SDAIA where I worked in the R&D and there where I awarded the SDAIA-KAUST Data Science and Artificial Intelligence Fellowship. For the later, I joined the Visual Computing Center (VCC) as a Visiting Research Engineer working under the supervision of Prof. Peter Wonka.
+
+I obtained my B.Sc. in Computer Engineer with First Class Honors from the College of Computer and Information Sciences, King Saud University, Saudi Arabia, in July 2020. During my B.Sc., I Awarded with the Prize of the Dean's List of Outstanding Students (2018 / 2019).
