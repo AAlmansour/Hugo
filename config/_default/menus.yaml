@@ -11,7 +11,7 @@ main:
     # url: /#news
     # weight: 11
   - name: Publications
-    url: /
+    url: publication/
     weight: 11
   # - name: Talks
     # url: /#talks
