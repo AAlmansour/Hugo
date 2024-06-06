@@ -61,8 +61,8 @@ sections:
         folders:
           - publication
         exclude_featured: true
-    design:
-      view: citation
+    # design:
+      # view: citation
   # - block: collection
     # id: talks
     # content:
