@@ -31,7 +31,7 @@ publication_types: ['paper-conference']
 publication: In *International Conference on Acoustics, Speech, and Signal Processing*
 publication_short: In *ICASSP*
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Recently, deep neural networks (DNNs) have emerged as state-of-the-art approaches for various computer vision areas. In this paper, we propose an optimized approach for large-scale face recognition. Our work is motivated through the recent development of deep convolutional neural networks (CNNs) that use different loss functions to learn deep features from face images to perform face recognition. As opposed to previous works, we model Cov loss to optimize deep features along the covariance matrix to enhance discriminative power. We formulate Cov loss to maximize inter-class variance and minimize intra-class variance by optimizing the distance between the deep features and their corresponding class covariances in the Euclidean space. The proposed Cov loss is evaluated on large-scale face recognition problems and present results on LFW, IJB-A Janus, IJB-C Janus, and Celebrity Frontal-Profile (CFP). By optimizing features along both Euclidean and angular spaces, our novel loss function learns more robust feature representations of faces, and improves general performance results comparable to the state-of-the-art results..
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -40,7 +40,7 @@ publication_short: In *ICASSP*
   # - Large Language Models
 
 # Display this page in the Featured widget?
-# featured: true
+# featured: True
 
 # Custom links (uncomment lines below)
 # links:
@@ -78,13 +78,3 @@ publication_short: In *ICASSP*
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

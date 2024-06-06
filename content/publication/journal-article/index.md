@@ -32,7 +32,7 @@ publication_types: ["article-journal"]
 publication: "*Plos one, 1*(1)"
 publication_short: ""
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Glaucoma is the second leading cause of blindness worldwide, and peripapillary atrophy (PPA) is a morphological symptom associated with it. Therefore, it is necessary to clinically detect PPA for glaucoma diagnosis. This study was aimed at developing a detection method for PPA using fundus images with deep learning algorithms to be used by ophthalmologists or optometrists for screening purposes. The model was developed based on localization for the region of interest (ROI) using a mask region-based convolutional neural networks R-CNN and a classification network for the presence of PPA using CNN deep learning algorithms. A total of 2,472 images, obtained from five public sources and one Saudi-based resource (King Abdullah International Medical Research Center in Riyadh, Saudi Arabia), were used to train and test the model. First the images from public sources were analyzed, followed by those from local sources, and finally, images from both sources were analyzed together. In testing the classification model, the area under the curve’s (AUC) scores of 0.83, 0.89, and 0.87 were obtained for the local, public, and combined sets, respectively. The developed model will assist in diagnosing glaucoma in screening programs; however, more research is needed on segmenting the PPA boundaries for more detailed PPA detection, which can be combined with optic disc and cup boundaries to calculate the cup-to-disc ratio.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -74,13 +74,3 @@ publication_short: ""
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
