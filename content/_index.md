@@ -53,16 +53,16 @@ sections:
     # design:
       # view: article-grid
       # columns: 2
-  # - block: collection
-    # content:
-      # title: Recent Publications
-      # text: ""
-      # filters:
-        # folders:
-          # - publication
-        # exclude_featured: false
-    # design:
-      # view: citation
+  - block: collection
+    content:
+      title: Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
   # - block: collection
     # id: talks
     # content:
@@ -76,7 +76,7 @@ sections:
   # - block: collection
     # id: news
     # content:
-      # title: Recent News
+      # title: Awards
       # subtitle: ''
       # text: ''
       # Page type to display. E.g. post, talk, publication...   this is a comment 
