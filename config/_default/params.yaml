@@ -6,7 +6,6 @@
 # Appearance
 appearance:
   mode: system
-  day_night: true
   color: emerald
 
 # SEO
