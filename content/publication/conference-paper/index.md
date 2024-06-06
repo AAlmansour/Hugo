@@ -30,7 +30,7 @@ publication_types: ['paper-conference']
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Acoustics, Speech, and Signal Processing*
 publication_short: In ***ICASSP***
-{style="color: red"} 
+
 
 abstract: Recently, deep neural networks (DNNs) have emerged as state-of-the-art approaches for various computer vision areas. In this paper, we propose an optimized approach for large-scale face recognition. Our work is motivated through the recent development of deep convolutional neural networks (CNNs) that use different loss functions to learn deep features from face images to perform face recognition. As opposed to previous works, we model Cov loss to optimize deep features along the covariance matrix to enhance discriminative power. We formulate Cov loss to maximize inter-class variance and minimize intra-class variance by optimizing the distance between the deep features and their corresponding class covariances in the Euclidean space. The proposed Cov loss is evaluated on large-scale face recognition problems and present results on LFW, IJB-A Janus, IJB-C Janus, and Celebrity Frontal-Profile (CFP). By optimizing features along both Euclidean and angular spaces, our novel loss function learns more robust feature representations of faces, and improves general performance results comparable to the state-of-the-art results..
 
