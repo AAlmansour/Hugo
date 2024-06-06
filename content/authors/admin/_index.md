@@ -63,10 +63,10 @@ education:
     # button:
       # text: 'Read Thesis'
       # url: 'https://example.com'
-  - area: M.Sc. in Electrical and Computer Engineering - Advanced Study Program
-    institution: Carnegie Mellon University
-    date_start: 2024-01-01
-    date_end: 2026-05-31
+  # - area: M.Sc. in Electrical and Computer Engineering - Advanced Study Program
+    # institution: Carnegie Mellon University
+    # date_start: 2024-01-01
+    # date_end: 2026-05-31
     # summary: |
       # GPA: 3.8/4.0
 
