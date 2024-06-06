@@ -74,10 +74,11 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Bachelor of Science in Computer Engineering
+  - area: BSc in Computer Engineering
     institution: King Saud University
     date_start: 2016-01-01
     date_end: 2020-12-31
+    logo: envelop
     # summary: |
       # GPA: 3.4/4.0
       
