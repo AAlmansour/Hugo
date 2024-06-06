@@ -31,9 +31,9 @@ abstract: Biomedical knowledge is represented in structured databases and publis
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: False
+# tags:
+# - Source Themes
+# featured: False
 
 # links:
 # - name: ""
