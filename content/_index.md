@@ -95,7 +95,7 @@ sections:
     design:
       view: citation
       background:
-        color: azure
+        color: baby powder
       # Reduce spacing
       spacing: 
         padding: [40px, 0, 20px, 0]
