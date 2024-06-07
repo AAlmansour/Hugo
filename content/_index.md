@@ -95,7 +95,7 @@ sections:
     design:
       view: citation
       background:
-        color: lightgray
+        color: pltinum
       # Reduce spacing
       spacing: 
         padding: [40px, 0, 20px, 0]
