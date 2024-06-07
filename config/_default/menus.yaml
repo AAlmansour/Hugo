@@ -7,12 +7,30 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: Experience
+    url: /
+    weight: 11
+  - name: Volunteer
+    url: /
+    weight: 11
+  - name: Teaching
+    url: /
+    weight: 12
   - name: Awards
     url: /#news
     weight: 11
+  - name: Memberships
+    url: /
+    weight: 13
   - name: Publications
     url: publication/
-    weight: 12
+    weight: 14
+  - name: Projects
+    url: /
+    weight: 15
+  - name: Courses
+    url: /
+    weight: 16
   # - name: Talks
     # url: /#talks
     # weight: 12
