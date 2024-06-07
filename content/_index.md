@@ -94,8 +94,8 @@ sections:
         exclude_featured: true
     design:
       view: citation
-      # background:
-        # color: smoke
+      background:
+        color: azure
       # Reduce spacing
       spacing: 
         padding: [40px, 0, 20px, 0]
