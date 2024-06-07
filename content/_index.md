@@ -54,6 +54,15 @@ sections:
       # view: article-grid
       # columns: 2
   - block: collection
+    id: awards
+    content: 
+      title: Neural Networks and Deep Learning
+      url: https://www.coursera.org/learn/neural-networks-deep-learning
+      date: '2023-11-25'
+      awarder: Coursera
+      icon: coursera
+      page_type: post
+  - block: collection
     id: news
     content:
       title: Awards
@@ -91,7 +100,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      view: compact
+      view: citation
   # - block: collection
     # id: talks
     # content:
