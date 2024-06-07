@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: silver
+        color: lead
         # image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
@@ -95,7 +95,7 @@ sections:
     design:
       view: citation
       background:
-        color: Onyx
+        color: smoke
       # Reduce spacing
       spacing: 
         padding: [40px, 0, 20px, 0]
