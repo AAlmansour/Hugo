@@ -18,10 +18,10 @@ sections:
       # button:
         # text: Download CV
         # url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: mink
+    # design:
+      # css_class: dark
+      # background:
+        # color: mink
         # image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
@@ -79,8 +79,8 @@ sections:
     design:
       # Choose a layout view
       view: date-title-summary
-      background: 
-        color: slate
+      # background: 
+        # color: slate
       # Reduce spacing
       spacing: 
         padding: [40px, 0, 20px, 0]
@@ -94,8 +94,8 @@ sections:
         exclude_featured: true
     design:
       view: citation
-      background:
-        color: smoke
+      # background:
+        # color: smoke
       # Reduce spacing
       spacing: 
         padding: [40px, 0, 20px, 0]
