@@ -12,25 +12,25 @@ main:
     weight: 11
   - name: Volunteer
     url: /
-    weight: 11
+    weight: 12
   - name: Teaching
     url: /
-    weight: 12
+    weight: 13
   - name: Awards
     url: /#news
-    weight: 11
+    weight: 14
   - name: Memberships
     url: /
-    weight: 13
+    weight: 15
   - name: Publications
     url: publication/
-    weight: 14
+    weight: 16
   - name: Projects
     url: /
-    weight: 15
+    weight: 17
   - name: Courses
     url: /
-    weight: 16
+    weight: 18
   # - name: Talks
     # url: /#talks
     # weight: 12
