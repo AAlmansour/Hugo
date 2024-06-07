@@ -93,7 +93,7 @@ sections:
     design:
       view: citation
       background:
-        color: rose
+        color: red
       # Reduce spacing
       spacing: 
         padding: [40px, 0, 20px, 0]
