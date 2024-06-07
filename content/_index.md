@@ -79,7 +79,7 @@ sections:
     design:
       # Choose a layout view
       view: date-title-summary
-      Reduce spacing
+      # Reduce spacing
       spacing: 
         padding: [0, 0, 0, 0]
   - block: collection
