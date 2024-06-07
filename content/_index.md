@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: pewter
         # image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
@@ -80,7 +80,7 @@ sections:
       # Choose a layout view
       view: date-title-summary
       background: 
-        color: gray
+        color: slate
       # Reduce spacing
       spacing: 
         padding: [40px, 0, 20px, 0]
