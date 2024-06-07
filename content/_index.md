@@ -19,9 +19,9 @@ sections:
         # text: Download CV
         # url: uploads/resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
-        color: azure
+        color: Davy’s Grey
         # image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
