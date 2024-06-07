@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Abdullah Almansour
+{style="color: black"}
 
 # Name pronunciation (optional)
 # name_pronunciation: Abdullah Almansour
