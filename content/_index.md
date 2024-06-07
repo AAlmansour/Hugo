@@ -95,7 +95,7 @@ sections:
     design:
       view: citation
       background:
-        color: coin
+        color: smoke
       # Reduce spacing
       spacing: 
         padding: [40px, 0, 20px, 0]
