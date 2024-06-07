@@ -20,8 +20,8 @@ sections:
         # url: uploads/resume.pdf
     design:
       css_class: bright
-      # background:
-        # color: mink
+      background:
+        color: beige
         # image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
@@ -95,7 +95,7 @@ sections:
     design:
       view: citation
       background:
-        color: pltinum
+        color: cream
       # Reduce spacing
       spacing: 
         padding: [40px, 0, 20px, 0]
