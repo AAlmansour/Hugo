@@ -81,7 +81,7 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing: 
-        padding: [20px, 0, 20px, 0]
+        padding: [40px, 0, 20px, 0]
   - block: collection
     content:
       title: Publications
@@ -91,10 +91,10 @@ sections:
           - publication
         exclude_featured: true
     design:
-      view: card
+      view: citation
       # Reduce spacing
       spacing: 
-        padding: [20px, 0, 20px, 0]
+        padding: [40px, 0, 20px, 0]
   # - block: collection
     # id: talks
     # content:
