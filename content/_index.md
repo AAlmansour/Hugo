@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: gray
+        color: blue
         # image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
@@ -92,6 +92,8 @@ sections:
         exclude_featured: true
     design:
       view: citation
+      background:
+        color: rose
       # Reduce spacing
       spacing: 
         padding: [40px, 0, 20px, 0]
