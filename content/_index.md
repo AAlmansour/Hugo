@@ -47,13 +47,13 @@ sections:
       title: 'Experience'
       subtitle: ''
       text: |- 
-        <span style="font-size:0.2em; color:black">
         Nov 2022 – **_Present_**  
         Teaching Assistant  
         Department of Computer Engineering  
         College of Computer and Information Sciences  
         King Saud University  
-        Riyadh, Riyadh, Saudi Arabia</span>   
+        Riyadh, Riyadh, Saudi Arabia  
+        {style="font-size:2em; color:black"}   
 
         
         June 2022 – Dec 2022  
