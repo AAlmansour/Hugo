@@ -47,32 +47,36 @@ sections:
       title: 'Experience'
       subtitle: ''
       text: |-
-        Nov 2022 – **Present**  
+        {{< icon name="devicon/bash" >}}  
+        Nov 2022 – **_Present_**  
         Teaching Assistant  
         Department of Computer Engineering  
         College of Computer and Information Sciences  
         King Saud University  
+        Riyadh, Riyadh, Saudi Arabia
+        {style="color: black"}   
+
+        June 2022 – Dec 2022  
+        Research Engineer  
+        Visual Computing Center (Peter Wonka Research Group)  
+        Computer, Electrical and Mathematical Science and Engineering Division  
+        King Abdullah University of Science and Technology (KAUST)  
+        Mecca, Thuwal, Saudi Arabia  
+        {style="color: black"}
+
+        Aug 2021 – Oct 2022  
+        Artificial Intelligence Engineer  
+        Research and Development Department  
+        National Center for Artificial Intelligence (NCAI/SDAIA)  
         Riyadh, Riyadh, Saudi Arabia  
         {style="color: black"}  
-
-        June 2022 – Dec 2022
-        Research Engineer
-        Visual Computing Center (Peter Wonka Research Group)
-        Computer, Electrical and Mathematical Science and Engineering Division
-        King Abdullah University of Science and Technology (KAUST)
-        Mecca, Thuwal, Saudi Arabia
-
-        Aug 2021 – Oct 2022
-        Artificial Intelligence Engineer
-        Research and Development Department
-        National Center for Artificial Intelligence (NCAI/SDAIA)
-        Riyadh, Riyadh, Saudi Arabia
         
-        Nov 2020 – July 2021
-        Deep Learning Software Developer
-        Imaging Research Department
-        King Abdullah International Medical Research Center (KAIMRC/KSAU-HS)
-        Riyadh, Riyadh, Saudi Arabia
+        Nov 2020 – July 2021  
+        Deep Learning Software Developer  
+        Imaging Research Department  
+        King Abdullah International Medical Research Center (KAIMRC/KSAU-HS)  
+        Riyadh, Riyadh, Saudi Arabia  
+        {style="color: black"}
     # spacing: 
       # padding: [0, 0, 20px, 0]
     design:
