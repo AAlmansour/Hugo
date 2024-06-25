@@ -168,16 +168,6 @@ sections:
          • My contribution to the project was mainly to conduct different experimental setups with various
          model architectures and loss functions as well as preparing the training data.
          {style="color: black"}   
-
-         ![screen reader text](cells.png "caption")
-         Multi-supervised Deep Framework for Robust Automatic Cellular Anomaly Recognition
-         Dec 2022 – May 2023
-         • The project’s objective is to develop a cell detector, segmentor and cancerous stage identifier.
-         • A weekly supervised approach was followed along with other supervision techniques.
-         • The physician’s annotation was utilized to perform the segmentation task.
-         • My contribution to the project was to perform experiments with various weekly and un-supervised
-         learning methods to utilize bounding boxes annotations in order to segment cells in images. 
-         {style="color: black"}
     # spacing: 
       # padding: [0, 0, 20px, 0]
     design:
