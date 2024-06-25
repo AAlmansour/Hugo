@@ -47,13 +47,13 @@ sections:
       title: 'Experience'
       subtitle: ''
       text: |- 
+        <span style="font-family:calibri; font-size:4em; color:black">
         Nov 2022 – **_Present_**  
         Teaching Assistant  
         Department of Computer Engineering  
         College of Computer and Information Sciences  
         King Saud University  
-        Riyadh, Riyadh, Saudi Arabia
-        {style="color: black"}   
+        Riyadh, Riyadh, Saudi Arabia</span>   
 
         
         June 2022 – Dec 2022  
@@ -154,23 +154,23 @@ sections:
       # Reduce spacing
       # spacing: 
         # padding: [0, 0, 20px, 0]
-  - block: markdown
-    content:
-      title: 'Features Projects'
-      subtitle: ''
-      text: |- 
-         ![screen reader text](genomes.png "")
-         Learning Robust and Explainable Representation for Rare Disease Diagnosis From Facial Images  
-         Feb 2023 – July 2023  
-         • A research project concentrates on identifying rare genomics disease syndromes.  
-         • An experimental benchmark was designed to accurately indicate the disorder type.  
-         • Both fully supervised and semi-supervised training approaches were conducted.  
-         • My contribution to the project was mainly to conduct different experimental setups with various model architectures and loss functions as well as preparing the training data.  
-         {style="color: black"}   
-    # spacing: 
-      # padding: [0, 0, 20px, 0]
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: 'Features Projects'
+  #     subtitle: ''
+  #     text: |- 
+  #        ![screen reader text](genomes.png "")
+  #        Learning Robust and Explainable Representation for Rare Disease Diagnosis From Facial Images  
+  #        Feb 2023 – July 2023  
+  #        • A research project concentrates on identifying rare genomics disease syndromes.  
+  #        • An experimental benchmark was designed to accurately indicate the disorder type.  
+  #        • Both fully supervised and semi-supervised training approaches were conducted.  
+  #        • My contribution to the project was mainly to conduct different experimental setups with various model architectures and loss functions as well as preparing the training data.  
+  #        {style="color: black"}   
+  #   # spacing: 
+  #     # padding: [0, 0, 20px, 0]
+  #   design:
+  #     columns: '1'
   # - block: collection
     # id: talks
     # content:
