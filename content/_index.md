@@ -47,7 +47,7 @@ sections:
       title: 'Experience'
       subtitle: ''
       text: |- 
-        <span style="font-family:calibri; font-size:4em; color:black">
+        <span style="font-size:0.2em; color:black">
         Nov 2022 – **_Present_**  
         Teaching Assistant  
         Department of Computer Engineering  
