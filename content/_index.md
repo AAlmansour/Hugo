@@ -86,6 +86,21 @@ sections:
         # padding: [40px, 0, 20px, 0]
   - block: collection
     content:
+      title: Experience
+      text: ""
+      filters:
+        folders:
+          - exp
+        exclude_featured: true
+    design:
+      view: citation
+      background:
+        color: offwhite
+      # Reduce spacing
+      spacing: 
+        padding: [40px, 0, 20px, 0]
+  - block: collection
+    content:
       title: Publications
       text: ""
       filters:

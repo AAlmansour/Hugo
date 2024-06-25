@@ -76,7 +76,6 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Sc. in Computer Engineering
     institution: King Saud University
-    logo: code-bracket
     date_start: 2016-01-01
     date_end: 2020-12-31
     # summary: |
