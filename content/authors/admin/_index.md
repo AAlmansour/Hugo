@@ -76,6 +76,7 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Sc. in Computer Engineering
     institution: King Saud University
+    icon: code-bracket
     date_start: 2016-01-01
     date_end: 2020-12-31
     # summary: |
@@ -191,6 +192,5 @@ Before joining KSU, I worked in places at the intersection between the academia 
 
 I obtained my B.Sc. in Computer Engineer with First Class Honors from the College of Computer and Information Sciences, King Saud University, Saudi Arabia, in July 2020. During my B.Sc., I Awarded with the Prize of the Dean's List of Outstanding Students (2018 / 2019). 
 
-**_Kindly, contact me for a detailed Resume_** 
-{style="color: red"} </div>
+**_Kindly, contact me for a detailed Resume_** </div>
 
