@@ -80,7 +80,7 @@ sections:
     # spacing: 
       # padding: [0, 0, 20px, 0]
     design:
-      css_class: bright
+      # css_class: bright
       background:
         color: gray
     design:
