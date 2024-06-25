@@ -42,6 +42,38 @@ sections:
         # Please reach out to collaborate 😃
     # design:
       # columns: '1'
+  - block: markdown
+    content:
+      title: 'Experience'
+      subtitle: ''
+      text: |-
+        Nov 2022 – Present
+        Teaching Assistant
+        Department of Computer Engineering
+        College of Computer and Information Sciences
+        King Saud University
+        Riyadh, Riyadh, Saudi Arabia
+
+        June 2022 – Dec 2022
+        Research Engineer
+        Visual Computing Center (Peter Wonka Research Group)
+        Computer, Electrical and Mathematical Science and Engineering Division
+        King Abdullah University of Science and Technology (KAUST)
+        Mecca, Thuwal, Saudi Arabia
+
+        Aug 2021 – Oct 2022
+        Artificial Intelligence Engineer
+        Research and Development Department
+        National Center for Artificial Intelligence (NCAI/SDAIA)
+        Riyadh, Riyadh, Saudi Arabia
+        
+        Nov 2020 – July 2021
+        Deep Learning Software Developer
+        Imaging Research Department
+        King Abdullah International Medical Research Center (KAIMRC/KSAU-HS)
+        Riyadh, Riyadh, Saudi Arabia
+    design:
+      columns: '1'
   # - block: collection
     # id: papers
     # content:
@@ -84,21 +116,21 @@ sections:
       # Reduce spacing
       # spacing: 
         # padding: [40px, 0, 20px, 0]
-  - block: collection
-    content:
-      title: Experience
-      text: ""
-      filters:
-        folders:
-          - exp
-        exclude_featured: true
-    design:
-      view: citation
-      background:
-        color: offwhite
-      # Reduce spacing
-      spacing: 
-        padding: [40px, 0, 20px, 0]
+  # - block: collection
+  #   content:
+  #     title: Experience
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - exp
+  #       exclude_featured: true
+  #   design:
+  #     view: citation
+  #     background:
+  #       color: offwhite
+  #     # Reduce spacing
+  #     spacing: 
+  #       padding: [40px, 0, 20px, 0]
   - block: collection
     content:
       title: Publications
