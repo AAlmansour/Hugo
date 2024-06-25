@@ -10,27 +10,27 @@ main:
   - name: Experience
     url: /
     weight: 11
-  - name: Volunteer
-    url: /
-    weight: 12
-  - name: Teaching
-    url: /
-    weight: 13
-  - name: Awards
-    url: /#news
-    weight: 14
-  - name: Memberships
-    url: /
-    weight: 15
-  - name: Publications
-    url: publication/
-    weight: 16
+  # - name: Volunteer
+    # url: /
+    # weight: 12
+  # - name: Teaching
+    # url: /
+    # weight: 13
+  # - name: Awards
+    # url: /#news
+    # weight: 14
+  # - name: Memberships
+    # url: /
+    # weight: 15
   - name: Projects
     url: /
-    weight: 17
-  - name: Courses
-    url: /
-    weight: 18
+    weight: 12
+  - name: Publications
+    url: publication/
+    weight: 13
+  # - name: Courses
+    # url: /
+    # weight: 18
   # - name: Talks
     # url: /#talks
     # weight: 12

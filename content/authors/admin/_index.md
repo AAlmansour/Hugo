@@ -189,5 +189,8 @@ awards:
 
 Before joining KSU, I worked in places at the intersection between the academia and the industry starting at King Abdullah International Medical Research Center (KAIMRC) in the Imaging Research Department. Thereafter, I joined the National Center for AI at SDAIA where I worked in the R&D and there where I awarded the SDAIA-KAUST Data Science and Artificial Intelligence Fellowship. For the later, I joined the Visual Computing Center (VCC) as a Visiting Research Engineer working under the supervision of Prof. Peter Wonka.
 
-I obtained my B.Sc. in Computer Engineer with First Class Honors from the College of Computer and Information Sciences, King Saud University, Saudi Arabia, in July 2020. During my B.Sc., I Awarded with the Prize of the Dean's List of Outstanding Students (2018 / 2019). </div>
+I obtained my B.Sc. in Computer Engineer with First Class Honors from the College of Computer and Information Sciences, King Saud University, Saudi Arabia, in July 2020. During my B.Sc., I Awarded with the Prize of the Dean's List of Outstanding Students (2018 / 2019). 
+
+_Kindly, contact me for a detailed Resume_ 
+{style="color: pink"} </div>
 
