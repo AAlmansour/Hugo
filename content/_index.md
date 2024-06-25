@@ -46,15 +46,17 @@ sections:
     content:
       title: 'Experience'
       subtitle: ''
-      text: |-  
-        {{< icon name="devicon/whatsapp" >}}     Nov 2022 – **_Present_**  
-                                                 Teaching Assistant  
-                                                 Department of Computer Engineering  
-                                                 College of Computer and Information Sciences  
-                                                 King Saud University  
-                                                 Riyadh, Riyadh, Saudi Arabia\
+      text: |-
+        {{< icon name="devicon/linkedin" >}}  
+        Nov 2022 – **_Present_**  
+        Teaching Assistant  
+        Department of Computer Engineering  
+        College of Computer and Information Sciences  
+        King Saud University  
+        Riyadh, Riyadh, Saudi Arabia
         {style="color: black"}   
 
+        
         June 2022 – Dec 2022  
         Research Engineer  
         Visual Computing Center (Peter Wonka Research Group)  
@@ -62,6 +64,7 @@ sections:
         King Abdullah University of Science and Technology (KAUST)  
         Mecca, Thuwal, Saudi Arabia  
         {style="color: black"}
+
 
         Aug 2021 – Oct 2022  
         Artificial Intelligence Engineer  
