@@ -81,7 +81,7 @@ sections:
       # padding: [0, 0, 20px, 0]
     design:
       background:
-        color: gray
+        color: WhiteSmoke
       columns: '1'
   # - block: collection
     # id: papers
