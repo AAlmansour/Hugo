@@ -47,7 +47,7 @@ sections:
       title: 'Experience'
       subtitle: ''
       text: |-
-        Nov 2022 – Present
+        Nov 2022 – **Present**
         Teaching Assistant
         Department of Computer Engineering
         College of Computer and Information Sciences
@@ -72,6 +72,8 @@ sections:
         Imaging Research Department
         King Abdullah International Medical Research Center (KAIMRC/KSAU-HS)
         Riyadh, Riyadh, Saudi Arabia
+    spacing: 
+      padding: [0, 0, 20px, 0]
     design:
       columns: '1'
   # - block: collection
@@ -145,7 +147,7 @@ sections:
         color: offwhite
       # Reduce spacing
       spacing: 
-        padding: [40px, 0, 20px, 0]
+        padding: [0, 0, 20px, 0]
   # - block: collection
     # id: talks
     # content:
