@@ -82,7 +82,7 @@ sections:
     design:
       css_class: bright
       background:
-        color: silver
+        color: gray
     design:
       columns: '1'
   # - block: collection
