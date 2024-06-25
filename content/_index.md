@@ -47,7 +47,6 @@ sections:
       title: 'Experience'
       subtitle: ''
       text: |- 
-        {{< icon name="custom/ksu" >}}
         Nov 2022 – **_Present_**  
         Teaching Assistant  
         Department of Computer Engineering  
