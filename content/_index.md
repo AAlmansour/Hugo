@@ -53,7 +53,8 @@ sections:
         College of Computer and Information Sciences  
         King Saud University  
         Riyadh, Riyadh, Saudi Arabia    
-        {style="font-size:0.8em; color:black"}   
+        {style="font-size:0.8em; color:black"}    
+        
 
         June 2022 – Dec 2022  
         Research Engineer  
