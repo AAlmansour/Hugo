@@ -54,7 +54,7 @@ sections:
         King Saud University  
         Riyadh, Riyadh, Saudi Arabia    
         {style="font-size:0.8em; color:black"}    
-        
+        <br/>
 
         June 2022 – Dec 2022  
         Research Engineer  
@@ -72,6 +72,7 @@ sections:
         Riyadh, Riyadh, Saudi Arabia  
         {style="font-size:0.8em; color:black"}   
         
+
         Nov 2020 – July 2021  
         Deep Learning Software Developer  
         Imaging Research Department  
