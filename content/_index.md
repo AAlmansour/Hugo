@@ -47,6 +47,7 @@ sections:
       title: 'Experience'
       subtitle: ''
       text: |- 
+        {{< icon name="custom/ksu" >}}
         Nov 2022 – **_Present_**  
         Teaching Assistant  
         Department of Computer Engineering  
@@ -63,7 +64,7 @@ sections:
         King Abdullah University of Science and Technology (KAUST)  
         Mecca, Thuwal, Saudi Arabia  
         {style="font-size:0.8em; color:black"} 
-
+        <br/>
 
         Aug 2021 – Oct 2022  
         Artificial Intelligence Engineer  
@@ -71,7 +72,7 @@ sections:
         National Center for Artificial Intelligence (NCAI/SDAIA)  
         Riyadh, Riyadh, Saudi Arabia  
         {style="font-size:0.8em; color:black"}   
-        
+        <br/>
 
         Nov 2020 – July 2021  
         Deep Learning Software Developer  
