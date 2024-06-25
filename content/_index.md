@@ -55,14 +55,13 @@ sections:
         Riyadh, Riyadh, Saudi Arabia  
         {style="font-size:0.8em; color:black"}   
 
-        
         June 2022 – Dec 2022  
         Research Engineer  
         Visual Computing Center (Peter Wonka Research Group)  
         Computer, Electrical and Mathematical Science and Engineering Division  
         King Abdullah University of Science and Technology (KAUST)  
         Mecca, Thuwal, Saudi Arabia  
-        {style="color: black"}
+        {style="font-size:0.8em; color:black"} 
 
 
         Aug 2021 – Oct 2022  
@@ -70,14 +69,14 @@ sections:
         Research and Development Department  
         National Center for Artificial Intelligence (NCAI/SDAIA)  
         Riyadh, Riyadh, Saudi Arabia  
-        {style="color: black"}  
+        {style="font-size:0.8em; color:black"}   
         
         Nov 2020 – July 2021  
         Deep Learning Software Developer  
         Imaging Research Department  
         King Abdullah International Medical Research Center (KAIMRC/KSAU-HS)  
         Riyadh, Riyadh, Saudi Arabia  
-        {style="color: black"}
+        {style="font-size:0.8em; color:black"} 
     # spacing: 
       # padding: [0, 0, 20px, 0]
     design:
