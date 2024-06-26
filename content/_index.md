@@ -162,15 +162,49 @@ sections:
       title: 'Features Projects'
       subtitle: ''
       text: |- 
-         Learning Robust and Explainable Representation for Rare Disease Diagnosis From Facial Images    
-         Feb 2023 – July 2023   
+         Learning Robust and Explainable Representation for Rare Disease Diagnosis From Facial Images      
+         Feb 2023 – July 2023     
          {style="font-size:0.8em; color:black"}  
-         {{% staticref "static/uploads/Genomes.pdf" "newtab" %}}View Project Poster{{% /staticref %}} 
          <br/>
          
-         Multi-supervised Deep Framework for Robust Automatic Cellular Anomaly Recognition
-         Dec 2022 – May 2023  
-         {style="font-size:0.8em; color:black"} 
+         Multi-supervised Deep Framework for Robust Automatic Cellular Anomaly Recognition  
+         Dec 2022 – May 2023   
+         {style="font-size:0.8em; color:black"}  
+         <br/>  
+
+         Domain Generalization: Data Acquisition/Population Agnostic Model Via Features Disentanglement  
+         June 2022 – Dec 2022  
+         {style="font-size:0.8em; color:black"}  
+         <br/>
+
+         Diabetic Retinopathy Detection  
+         Aug 2021 – June 2022  
+         {style="font-size:0.8em; color:black"}  
+         <br/>
+
+         Unconstrained Face Recognition: Proposing a Novel Loss Function  
+         Sep 2021 – Oct 2022  
+         {style="font-size:0.8em; color:black"}  
+         <br/>
+
+         Knowledge Graph Representation for Drugs and Genes Interactions  
+         Dec 2021 – Feb 2022  
+         {style="font-size:0.8em; color:black"}  
+         <br/>
+
+         Peripapillary Atrophy (PPA) Detection In Fundus Images Using Deep Learning  
+         Nov 2020 – July 2021  
+         {style="font-size:0.8em; color:black"}  
+         <br/>
+
+         Detecting Abnormal Traffic Patterns in an IoT Tracking System  
+         Nov 2019 – Sep 2020  
+         {style="font-size:0.8em; color:black"}  
+         <br/>
+
+         Handwritten Arabic Signatures Recognition  
+         Feb 2020 – Aug 2020  
+          {style="font-size:0.8em; color:black"}  
          
     # spacing: 
       # padding: [0, 0, 20px, 0]
