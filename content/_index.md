@@ -164,20 +164,18 @@ sections:
       text: |- 
          Learning Robust and Explainable Representation for Rare Disease Diagnosis From Facial Images    
          Feb 2023 – July 2023  
-         {style="color: black"}
-         {{% staticref "uploads/Genomes.pdf" "newtab" %}}View Project Poster{{% /staticref %}}  
-         {style="color: blue"}  
+         {style="color: black"} 
          <br/>
          
          Learning Robust and Explainable Representation for Rare Disease Diagnosis From Facial Images    
          Feb 2023 – July 2023  
-         {style="color: black"}
-         {{% staticref "uploads/Cells.pdf" "newtab" %}}View Project Poster{{% /staticref %}}  
-         {style="color: blue"} 
+         {style="color: black"} 
          
     # spacing: 
       # padding: [0, 0, 20px, 0]
     design:
+      background:
+        color: WhiteSmoke
       columns: '1'
   # - block: collection
     # id: talks
