@@ -164,12 +164,13 @@ sections:
       text: |- 
          Learning Robust and Explainable Representation for Rare Disease Diagnosis From Facial Images    
          Feb 2023 – July 2023  
-         {style="color: black"} 
+         {{% staticref "static/uploads/Genomes.pdf" "newtab" %}}View Project Poster{{% /staticref %}}  
+         {style="font-size:0.8em; color:black"} 
          <br/>
          
-         Learning Robust and Explainable Representation for Rare Disease Diagnosis From Facial Images    
-         Feb 2023 – July 2023  
-         {style="color: black"} 
+         Multi-supervised Deep Framework for Robust Automatic Cellular Anomaly Recognition
+         Dec 2022 – May 2023  
+         {style="font-size:0.8em; color:black"} 
          
     # spacing: 
       # padding: [0, 0, 20px, 0]
