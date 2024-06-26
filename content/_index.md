@@ -159,7 +159,7 @@ sections:
         # padding: [0, 0, 20px, 0]
   - block: markdown
     content:
-      title: 'Features Projects'
+      title: 'Featured Projects'
       subtitle: ''
       text: |- 
          Learning Robust and Explainable Representation for Rare Disease Diagnosis From Facial Images      
