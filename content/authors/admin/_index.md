@@ -185,7 +185,7 @@ awards:
 
 ## Biography 
 
-<div style="text-align: justify"> I am a Teaching Assistant (since Nov. 2022) in the Department of Computer Engineering at King Saud University (KSU). My current research lies in Signal Processing, Computer Vision, Machine Learning, Deep Learning and Biometrics. 
+<div style="text-align: justify"> I am a Teaching Assistant (since Nov. 2022) in the Department of Computer Engineering at King Saud University (KSU). My current research lies in Signal Processing, Computer Vision, Machine Learning and Deep Learning. 
 
 Before joining KSU, I worked in places at the intersection between the academia and the industry starting at King Abdullah International Medical Research Center (KAIMRC) in the Imaging Research Department. Thereafter, I joined the National Center for AI at SDAIA where I worked in the R&D and there where I awarded the SDAIA-KAUST Data Science and Artificial Intelligence Fellowship. For the later, I joined the Visual Computing Center (VCC) as a Visiting Research Engineer working under the supervision of Prof. Peter Wonka.
 
