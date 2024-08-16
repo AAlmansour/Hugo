@@ -22,7 +22,7 @@ sections:
     design:
       css_class: bright
       spacing: 
-        padding: [0, 0, 10px, 0]
+        padding: [0, 0, 20px, 0]
       # background:
         # color: beige
         # image:
@@ -173,7 +173,7 @@ sections:
         color: WhiteSmoke
       # Reduce spacing
       spacing: 
-        padding: [0, 0, 0, 0]
+        padding: [20px, 0, 0, 0]
   # - block: markdown
   #   content:
   #     title: 'Featured Projects'
