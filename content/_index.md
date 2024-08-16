@@ -21,6 +21,8 @@ sections:
         # url: uploads/resume.pdf
     design:
       css_class: bright
+      spacing: 
+        padding: [0, 0, 0, 0]
       # background:
         # color: beige
         # image:
