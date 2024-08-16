@@ -51,7 +51,6 @@ interests:
   - Computer Vision
   - Machine Learning 
   - Deep Learning
-  - Biometrics
 
 education:
   # - area: PhD Artificial Intelligence
