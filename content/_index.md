@@ -172,8 +172,8 @@ sections:
       background:
         color: WhiteSmoke
       # Reduce spacing
-      # spacing: 
-        # padding: [0, 0, 20px, 0]
+      spacing: 
+        padding: [0, 0, 0, 0]
   # - block: markdown
   #   content:
   #     title: 'Featured Projects'
