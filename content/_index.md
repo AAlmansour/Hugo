@@ -30,20 +30,20 @@ sections:
           # size: cover
           # position: center
           # parallax: false
-  - block: work #experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'Nov 2006'
-      background:
-        color: WhiteSmoke
-      # Education or Experience section first?
-      # is_education_first: true
-  - block: awards
-    content:
-      title: Awards
-      username: admin
+  # - block: experience  #################################### adjust later on
+  #   content:
+  #     username: admin
+  #   design:
+  #     # Hugo date format
+  #     date_format: 'Nov 2006'
+  #     background:
+  #       color: WhiteSmoke
+  #     # Education or Experience section first?
+  #     # is_education_first: true
+  # - block: awards #################################### adjust later on
+  #   content:
+  #     title: Awards
+  #     username: admin
   # - block: markdown
     # content:
       # title: '📚 My Research'
