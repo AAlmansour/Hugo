@@ -30,12 +30,12 @@ sections:
           # size: cover
           # position: center
           # parallax: false
-  - block: experience
+  - block: work #experience
     content:
       username: admin
     design:
       # Hugo date format
-      date_format: '2006'
+      date_format: 'Nov 2006'
       background:
         color: WhiteSmoke
       # Education or Experience section first?
