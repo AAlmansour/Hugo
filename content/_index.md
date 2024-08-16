@@ -35,11 +35,11 @@ sections:
       username: admin
     design:
       # Hugo date format
-      # date_format: 'January 2006'
+      date_format: '2006'
       background:
         color: WhiteSmoke
       # Education or Experience section first?
-      is_education_first: true
+      # is_education_first: true
   - block: awards
     content:
       title: Awards
